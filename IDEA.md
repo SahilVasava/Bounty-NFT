@@ -4,8 +4,3 @@
 - DAOs can also use the protocol as a task allocation mechanism based on track record of individuals.
 - DAOs can gate individuals from applying for tasks based on certain criteria derived from this protocol.
 - This is similar to POAP but for work/tasks.
-
-
-
-
- 
